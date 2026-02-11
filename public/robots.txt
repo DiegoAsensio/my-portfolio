@@ -1,14 +1,38 @@
+# Robots.txt para Diego Asensio Portfolio
+User-agent: *
+Allow: /
+
+# Sitemaps
+Sitemap: https://diegoasensio.com/sitemap.xml
+
+# Bots específicos
 User-agent: Googlebot
 Allow: /
 
 User-agent: Bingbot
 Allow: /
 
-User-agent: Twitterbot
+User-agent: Slurp
+Allow: /
+
+User-agent: DuckDuckBot
+Allow: /
+
+User-agent: Baiduspider
+Allow: /
+
+User-agent: YandexBot
 Allow: /
 
 User-agent: facebookexternalhit
 Allow: /
 
-User-agent: *
+User-agent: Twitterbot
 Allow: /
+
+User-agent: LinkedInBot
+Allow: /
+
+# Crawl-delay para bots más agresivos
+User-agent: *
+Crawl-delay: 1

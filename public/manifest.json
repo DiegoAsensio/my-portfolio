@@ -1,0 +1,24 @@
+{
+  "name": "Diego Asensio - Desarrollador Front End",
+  "short_name": "Diego Asensio",
+  "description": "Portfolio profesional de Diego Asensio, Desarrollador Web Front End especializado en React, TypeScript y JavaScript",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#1e1b29",
+  "theme_color": "#8b5cf6",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["portfolio", "developer", "frontend"],
+  "lang": "es-AR",
+  "dir": "ltr",
+  "scope": "/",
+  "related_applications": [],
+  "prefer_related_applications": false
+}
