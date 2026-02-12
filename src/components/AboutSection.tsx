@@ -41,7 +41,7 @@ const AboutSection = () => {
 
             <div className="flex gap-6 mt-4">
               <div className="text-center p-4 rounded-xl bg-card border border-border">
-                <p className="font-display font-bold text-2xl text-primary">4</p>
+                <p className="font-display font-bold text-2xl text-primary">4 años</p>
                 <p className="text-sm text-muted-foreground">{t("about.experience")}</p>
               </div>
               <div className="text-center p-4 rounded-xl bg-card border border-border">

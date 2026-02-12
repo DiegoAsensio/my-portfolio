@@ -55,7 +55,7 @@ const HeroSection = () => {
           className="flex flex-wrap items-center justify-center gap-4"
         >
           <a
-            href="https://diegoasensio.netlify.app/static/media/Diego%20Asensio%20-%20CV.pdf"
+            href="public/Asensio-Diego-Resume.pdf"
             target="_blank"
             rel="noopener noreferrer"
             className="inline-flex items-center gap-2 px-6 py-3 rounded-full bg-gradient-primary text-primary-foreground font-semibold hover:opacity-90 transition-opacity"
