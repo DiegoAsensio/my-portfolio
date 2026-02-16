@@ -48,10 +48,10 @@ const projects: Project[] = [
     tags: ["JavaScript"],
   },
   {
-    name: "Perfect Shoes",
-    descKey: "project.perfectshoes",
-    image: "https://i.ibb.co/cSVK4RcZ/shoes.png",
-    url: "https://e-commerce-asensio.web.app/",
+    name: "TaskFlow Pro",
+    descKey: "project.taskflowpro",
+    image: "https://i.ibb.co/pB7FqRcy/taskflow.png",
+    url: "https://mytaskflowpro.netlify.app/",
     tags: ["React"],
   },
   {
@@ -152,7 +152,7 @@ const ProjectsSection = () => {
                       ))}
                     </div>
                   </div>
-                  <p className="text-sm text-muted-foreground line-clamp-3">{t(project.descKey)}</p>
+                  <p className="text-sm text-muted-foreground">{t(project.descKey)}</p>
                 </div>
               </motion.div>
             ))}

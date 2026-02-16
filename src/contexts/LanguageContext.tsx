@@ -48,8 +48,9 @@ const translations: Record<Language, Record<string, string>> = {
     "project.matienzo": "Ecommerce de mates con carrito de compras y formulario con EmailJS. Productos cargados via fetch. Responsive y optimizado.",
     "project.historia": "Página informativa sobre la historia argentina desde la época colonial hasta la actualidad. HTML, CSS y JavaScript. Responsive y SEO optimizado.",
     "project.tercertiempo": "Web para escuela de fútbol con sistema de puntos automático. Conectada a Google Sheets API como base de datos en tiempo real.",
-    "project.perfectshoes": "Ecommerce de calzado deportivo y urbano con Firebase. React.js con hooks y carrito de compras. Responsive y optimizado.",
+    "project.taskflowpro": "TaskFlow Pro - App web de gestión de tareas tipo Kanban con React, Zustand y drag & drop. Incluye tableros, filtros, métricas y modo oscuro.",
     "project.musicvisualizer": "Aplicación web que analiza audio en tiempo real con visualizaciones inmersivas. React y Web Audio API con 4 modos de visualización a 60 FPS.",
+    "project.portfoliofotografa": "Portfolio de fotógrafa con galería de imágenes y formulario de contacto. Desarrollado con React y EmailJS. Responsive y optimizado.",
 
     // References
     "references.title": "Referencias",
@@ -95,8 +96,9 @@ const translations: Record<Language, Record<string, string>> = {
     "project.matienzo": "Mate e-commerce with shopping cart and EmailJS contact form. Products loaded via fetch. Responsive and optimized.",
     "project.historia": "Informative page about Argentine history from colonial times to the present. HTML, CSS and JavaScript. Responsive and SEO optimized.",
     "project.tercertiempo": "Football school website with automatic scoring system. Connected to Google Sheets API as a real-time database.",
-    "project.perfectshoes": "Sports and urban footwear e-commerce with Firebase. React.js with hooks and shopping cart. Responsive and optimized.",
+    "project.taskflowpro": "TaskFlow Pro - Kanban task management web app with React, Zustand and drag & drop. Features boards, filters, metrics and dark mode.",
     "project.musicvisualizer": "Web app that analyzes audio in real time with immersive visualizations. React and Web Audio API with 4 visualization modes at 60 FPS.",
+    "project.portfoliofotografa": "Photographer portfolio with image gallery and contact form. Built with React and EmailJS. Responsive and optimized.",
 
     "references.title": "References",
     "references.subtitle": "Comments from people I worked with",
